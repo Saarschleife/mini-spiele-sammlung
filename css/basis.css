@@ -1,0 +1,23 @@
+/*Stil auf allen Seiten
+*/
+
+.haupt-navigation {
+    background-color: #333;
+    padding: 1rem;
+}
+
+.haupt-navigation ul {
+    list-style: none;
+    display: flex;
+    gap: 20px;
+}
+
+.haupt-navigation a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.haupt-navigation a:hover {
+    text-decoration: underline;
+}

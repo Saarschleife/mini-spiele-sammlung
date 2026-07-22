@@ -1,0 +1,6 @@
+# Betriebssysteme
+.DS_Store
+Thumbs.db
+
+# Editor-spezifisch (z.B. VS Code)
+.vscode/

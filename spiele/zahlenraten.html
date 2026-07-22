@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mein Spielplatz - Zahlenraten</title>
+    <!-- Pfad zum CSS (ein Ordner zurück wegen des spiele/-Ordners) -->
+    <link rel="stylesheet" href="../css/basis.css">
+</head>
+
+<body>
+    <nav class="haupt-navigation">
+    <ul>
+        <li><a href="../index.html">Mein Spielplatz</a></li>
+        <li><a href="zahlenraten.html">Zahlenraten</a></li>
+        <li><a href="spiele/hangman.html">Hangman</a></li>
+        <li><a href="spiele/tictactoe.html">TicTacToe</a></li>
+    </ul>
+</nav>
+
+    <main>
+        <h1>Zahlenraten</h1>
+        
+        <section id="anleitung">
+            <h2>Spielanleitung</h2>
+            <p>Ich habe mir eine Zahl zwischen 1 und 100 ausgedacht. 
+               Versuche sie mit so wenig Versuchen wie möglich zu erraten!</p>
+        </section>
+
+        <section id="spielbereich">
+            <input type="number" id="eingabe-feld" placeholder="Zahl eingeben">
+            <button id="btn-pruefen">Prüfen</button>
+            <p id="meldung"></p>
+        </section>
+
+        <a href="../index.html">Zurück zur Startseite</a>
+    </main>
+
+    <!-- Einbindung der Logik am Ende, damit das DOM geladen ist -->
+    <script src="../js/spiel-logik-zahlenraten.js"></script>
+</body>
+</html>
