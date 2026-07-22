@@ -1,7 +1,7 @@
 ### Projektdokumentation: Spiele-Plattform
 
 ## Projektbeschreibung
-Dieses Projekt ist eine modulare Spiele-Plattform, die als Übungsprojekt entwickelt wurde. Ziel ist die Implementierung verschiedener kleiner Spiele in einer einheitlichen Web-Umgebung unter Einhaltung moderner Prinzipien wie der Trennung der Belange (Separation of Concerns).
+Dieses Projekt ist eine einfache modulare Spiele-Plattform, die als Übungsprojekt entwickelt wurde. 
 
 https://saarschleife.github.io/mini-spiele-sammlung/
 
