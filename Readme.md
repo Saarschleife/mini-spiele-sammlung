@@ -3,6 +3,7 @@
 ## Projektbeschreibung
 Dieses Projekt ist eine modulare Spiele-Plattform, die als Übungsprojekt entwickelt wurde. Ziel ist die Implementierung verschiedener kleiner Spiele in einer einheitlichen Web-Umgebung unter Einhaltung moderner Prinzipien wie der Trennung der Belange (Separation of Concerns).
 
+https://saarschleife.github.io/mini-spiele-sammlung/
 
 ## Technische Umsetzung
     HTML5: Strukturierung des Inhalts und semantischer Aufbau.
